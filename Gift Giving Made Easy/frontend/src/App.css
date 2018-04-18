@@ -1,0 +1,46 @@
+ html {
+
+    height: 100%;
+    width: 100%;
+} 
+body {
+  position: relative;
+  background: #efefef;
+  text-align: center;
+  overflow-x: hidden;
+  min-height: 100%;
+  padding-bottom: 5%;
+}
+
+h3{
+  color: #bdbdbd;
+}
+.footer{
+ 
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+} 
+
+nav{
+  text-align: center;
+}
+
+.card{
+  
+  height: 400px;
+
+
+}
+
+.card-body{
+  display: flex;
+}
+
+.card-body_center{
+  margin: auto;
+}
+
+
+
